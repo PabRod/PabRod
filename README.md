@@ -20,6 +20,13 @@ Additionally, I've been doing professional and semiprofessional [science communi
 - Teaching techniques
 - Dutch language
 
+### 🌐 I can understand
+
+- <img src="https://flagpedia.net/data/flags/mini/gb.png" width="30" height="20" alt="English"/>
+- <img src="https://flagpedia.net/data/flags/mini/es.png" width="30" height="20" alt="Spanish"/>
+- <img src="https://flagpedia.net/data/flags/mini/pt.png" width="30" height="20" alt="Portuguese"/>
+- <img src="https://flagpedia.net/data/flags/mini/nl.png" width="30" height="20" alt="Dutch"/>
+
 ### 📫 How to reach/follow me
 
 - Personal [website](https://pabrod.github.io)

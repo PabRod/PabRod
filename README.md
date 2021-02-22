@@ -20,12 +20,12 @@ Additionally, I've been doing professional and semiprofessional [science communi
 - Teaching techniques
 - Dutch language
 
-### 🌐 I can understand
+### 🌐 I can communicate in
 
-- <img src="https://flagpedia.net/data/flags/mini/gb.png" width="30" height="20" alt="English"/>
-- <img src="https://flagpedia.net/data/flags/mini/es.png" width="30" height="20" alt="Spanish"/>
-- <img src="https://flagpedia.net/data/flags/mini/pt.png" width="30" height="20" alt="Portuguese"/>
-- <img src="https://flagpedia.net/data/flags/mini/nl.png" width="30" height="20" alt="Dutch"/>
+- <img src="https://flagpedia.net/data/flags/mini/gb.png" width="30" height="20" alt="English"/> English
+- <img src="https://flagpedia.net/data/flags/mini/es.png" width="30" height="20" alt="Spanish"/> Spanish
+- <img src="https://flagpedia.net/data/flags/mini/pt.png" width="30" height="20" alt="Portuguese"/> Portuguese
+- <img src="https://flagpedia.net/data/flags/mini/nl.png" width="30" height="20" alt="Dutch"/> Dutch
 
 ### 📫 How to reach/follow me
 

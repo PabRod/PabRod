@@ -1,6 +1,6 @@
 ### Who am I?
 
-Hi! This is Pablo Rodríguez. I work as a [Research Software Engineer](https://en.wikipedia.org/wiki/Research_software_engineering) at the [Netherlands eScience Center](https://www.esciencecenter.nl/). Before that, I graduated in theoretical physics and got a PhD in applied mathematics, with the thesis [Cycles and interactions: a mathematician among biologists](https://doi.org/10.18174/520571).
+Hi! This is Pablo Rodríguez. I work as a [Research Software Engineer](https://en.wikipedia.org/wiki/Research_software_engineering) at the [Netherlands eScience Center](https://www.esciencecenter.nl/). Before that, I graduated in theoretical physics, worked for three years in the optical industry and got a PhD in applied mathematics. The latter, with the thesis [Cycles and interactions: a mathematician among biologists](https://doi.org/10.18174/520571).
 
 Additionally, I've been doing professional and semiprofessional [science communication](https://pabrod.github.io/pages/sci-comm-en.html#sci-comm) since 2011.
 

@@ -10,15 +10,15 @@ Additionally, I've been doing professional and semiprofessional [science communi
 
 ### 🔭 I’m currently working on
 
-- Efficient processing of satellite images
+- Movement classification with machine learning
 - Parallelization-in-time schemes for fluid dynamics problems
 - Teaching computational skills to researchers
 
 ### 🌱 I’m currently learning
 
-- Network theory
-- Teaching techniques
-- Dutch language
+- Accelerometry
+- Machine Learning
+- Advanced Dutch language
 
 ### 🌐 I can communicate in
 

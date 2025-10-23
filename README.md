@@ -33,4 +33,5 @@ Additionally, I've been doing professional [science communication](https://pabro
 - Personal [website](https://pabrod.github.io)
 - ORCID: [0000-0002-2855-940X](https://orcid.org/0000-0002-2855-940X)
 - Linkedin: [Pablo Rodríguez](https://www.linkedin.com/in/pabrod/)
-- Twitter: [@DonMostrenco](https://twitter.com/DonMostrenco)
+- Bluesky: [@pabrod.bsky.social](https://bsky.app/profile/pabrod.bsky.social)
+- Mastodon: [@pabrod](https://mastodon.social/@pabrod)
